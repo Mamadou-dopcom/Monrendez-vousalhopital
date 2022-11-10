@@ -1,7 +1,9 @@
 Le but du site est de permettre de prendre un rendez-vous a l'hopital . 
 On s'inscrit d'abord ou on se connecte pour pouvoir prendre correctement le rendez-vous
 
-#Deploiment 
+'''Deploiment'''
+
+
 Le site a été déployé sur l'hébergeur IONOS.
 Pour cela nous configurons
 un utilisateur SFTP puis récupérons un nom de serveur/host et un port et toutes les autres informations necessaires au deploiment. Ensuite 
